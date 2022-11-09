@@ -1,2 +1,5 @@
 Install Anaconda Navigator, community version.  
 Install Spyder.
+Install Chromedriver, this must be in accordance with the version of your own Chrome browser. 
+e.g. if the version of your Chrome is 107 and your OS is windows, please download version 107.0.5304.62, chromedriver_win32.zip
+You can find install steps in youtube: https://www.youtube.com/watch?v=dz59GsdvUF8.
